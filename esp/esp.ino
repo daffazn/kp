@@ -6,8 +6,8 @@
 
 #define FIREBASE_HOST "firsttest-45a5a.firebaseio.com"
 #define FIREBASE_AUTH "LEjdDsbYnWn3EwttN7q31jFLPc4fFsRkwBJ8GD4n"
-#define WIFI_SSID "La Casa De Papel"
-#define WIFI_PASSWORD "2123DuaSatu"
+#define WIFI_SSID "WIFI SSID"
+#define WIFI_PASSWORD "WIFI PASSWORD"
 
 static const int servoPin = 21;
 const int HX711_dout = 19;
